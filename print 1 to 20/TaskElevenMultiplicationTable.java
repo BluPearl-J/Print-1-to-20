@@ -14,3 +14,5 @@ System.out.println(number + "*" + i +" " + "equals:"+ " " + product);
 }
 }
 }
+
+//why is it running despite passing argument into void method?
