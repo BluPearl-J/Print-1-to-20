@@ -1,0 +1,22 @@
+
+
+biro 
+bok
+maven spring anythng
+create app
+it must expose a post endpont POST
+Its going to take data 9MODELS0 request not constructor args inside bracket =====
+
+it will validate except data it will use regex validate data
+
+
+name field           MSUST NO TBE BLANK SHOULD NOT START WITH DIGIT OR SPECIAL CHARACTER 
+NOT EMPTY
+
+EMAIL FIELD 
+{
+"name": "john"
+"email":"john@gmail.com"
+"passwpord":"password"
+"phone":"09099900"
+}
