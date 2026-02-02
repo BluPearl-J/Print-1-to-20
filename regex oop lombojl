@@ -20,3 +20,60 @@ EMAIL FIELD
 "passwpord":"password"
 "phone":"09099900"
 }
+30k graduayion
+azil supplier
+
+600k asured internship course
+ardino
+
+10am highest 4800 feb 2nd
+
+biro 
+bok
+maven spring anythng
+create app
+it must expose a post endpont POST
+Its going to take data 9MODELS0 request not constructor args inside bracket =====
+
+it will validate except data it will use regex validate data
+
+VALIDATION LAW
+MUST NOT START WITH SPECIAL UNDERSCORE UNDERSCORE
+name field           MSUST NO TBE BLANK SHOULD NOT START WITH DIGIT OR SPECIAL CHARACTER 
+NOT EMPTY
+
+
+2
+EMAI;L SHULD NOT BE BLANK OR EMPTY
+DOMAIN SHOULD BE VALID
+(GMAIL.COMSEMICOLON.COM
+YAHOO.COM
+EMAILA DDRESS CAN STAT WITH UNDERSCORE
+
+
+3
+PASSWORDVALIDATION LAWS
+(FOR LENGHTH NOT LESSTHAN 8CHARCACTERS 
+NOT MORE THAN 20)
+PW MUST ALSO HAVE SPECIAL CHARACTERS 
+MUST HAVE UPPERCASE
+NO SPACE FOR PW 
+NOT BLANK
+ONOT EMPTY
+MUST HAVE A DIGIT
+
+4
+PHONE NUMBER
+VALID NIGERIA MOBILE
+SODIK RESUM 2ND FEB FROM 12 JAN
+1 MONTH 2WEEKS BREAK
+AND HE AINT REGULAR IN CLASS
+
+
+EMAIL FIELD 
+{
+"name": "john"
+"email":"john@gmail.com"
+"passwpord":"password"
+"phone":"09099900"
+}
